@@ -19,7 +19,7 @@ cargo run
 **This will compile the project and run the main function.**
 
 
-**[Telegram channel ]("https://t.me/yvexeldev")** <br/>
-**[Insagram ]("https://instagram.com/yvexel.dev")**
+**Telegram:** https://yvexeldev.t.me
+**Instagram:** https://instagram.com/yvexel.dev
 
 
