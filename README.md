@@ -1,4 +1,4 @@
-## Simple Number guessing game written in rust 🦀:**
+## Simple Number guessing game written in rust 🦀:
 
 **Description:**
 
@@ -19,7 +19,7 @@ cargo run
 **This will compile the project and run the main function.**
 
 
-**Telegram:** https://yvexeldev.t.me
+**Telegram:** https://yvexeldev.t.me <br/>
 **Instagram:** https://instagram.com/yvexel.dev
 
 
